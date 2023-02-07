@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPL First Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 12:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wplwcp_domain"
+
+#: wpl_fu_plugin.php:95
+msgid "Beginning of post"
+msgstr ""
+
+#: wpl_fu_plugin.php:70
+msgid "Character Count"
+msgstr ""
+
+#: wpl_fu_plugin.php:43
+msgid "characters"
+msgstr ""
+
+#: wpl_fu_plugin.php:61
+msgid "Display Location"
+msgstr ""
+
+#: wpl_fu_plugin.php:96
+msgid "End of post"
+msgstr ""
+
+#. Description of the plugin
+msgid "First steps in plugin development"
+msgstr ""
+
+#: wpl_fu_plugin.php:64
+msgid "Headline Text"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/SerhiyKryvobok"
+msgstr ""
+
+#: wpl_fu_plugin.php:47
+msgid "minute(s) to read"
+msgstr ""
+
+#: wpl_fu_plugin.php:73
+msgid "Read Time"
+msgstr ""
+
+#. Author of the plugin
+msgid "SK"
+msgstr ""
+
+#: wpl_fu_plugin.php:39 wpl_fu_plugin.php:43
+msgid "This post has"
+msgstr ""
+
+#: wpl_fu_plugin.php:47
+msgid "This post will take about"
+msgstr ""
+
+#: wpl_fu_plugin.php:67 wpl_fu_plugin.php:101
+msgid "Word Count"
+msgstr ""
+
+#: wpl_fu_plugin.php:39
+msgid "words"
+msgstr ""
+
+#. Name of the plugin
+msgid "WPL First Plugin"
+msgstr ""

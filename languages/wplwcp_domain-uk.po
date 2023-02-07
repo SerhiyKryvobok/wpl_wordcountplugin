@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPL First Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 12:35+0000\n"
+"PO-Revision-Date: 2023-02-07 12:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wplwcp_domain"
+
+#: wpl_fu_plugin.php:95
+msgid "Beginning of post"
+msgstr "На початку поста"
+
+#: wpl_fu_plugin.php:70
+msgid "Character Count"
+msgstr "Лічильник символів"
+
+#: wpl_fu_plugin.php:43
+msgid "characters"
+msgstr "символів"
+
+#: wpl_fu_plugin.php:61
+msgid "Display Location"
+msgstr "Розташування"
+
+#: wpl_fu_plugin.php:96
+msgid "End of post"
+msgstr "В кінці поста"
+
+#. Description of the plugin
+msgid "First steps in plugin development"
+msgstr ""
+
+#: wpl_fu_plugin.php:64
+msgid "Headline Text"
+msgstr "Заголовок"
+
+#. Author URI of the plugin
+msgid "https://github.com/SerhiyKryvobok"
+msgstr ""
+
+#: wpl_fu_plugin.php:47
+msgid "minute(s) to read"
+msgstr "хвилин(у)"
+
+#: wpl_fu_plugin.php:73
+msgid "Read Time"
+msgstr "Час на читання"
+
+#. Author of the plugin
+msgid "SK"
+msgstr ""
+
+#: wpl_fu_plugin.php:39 wpl_fu_plugin.php:43
+msgid "This post has"
+msgstr "Цей пост має"
+
+#: wpl_fu_plugin.php:47
+msgid "This post will take about"
+msgstr "Перегляд цього посту займе"
+
+#: wpl_fu_plugin.php:67 wpl_fu_plugin.php:101
+msgid "Word Count"
+msgstr "Лічильник слів"
+
+#: wpl_fu_plugin.php:39
+msgid "words"
+msgstr "слів"
+
+#. Name of the plugin
+msgid "WPL First Plugin"
+msgstr ""
